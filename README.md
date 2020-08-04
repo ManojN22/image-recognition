@@ -16,6 +16,5 @@ scikit
 , open cv
 , matplotlib
 , svm
-####
-This is not a proper documentation.
-i am sorry for that :)
+
+###### This is not a proper documentation.I am sorry for that :)
