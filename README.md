@@ -10,7 +10,7 @@ THIS A FLAG RECOGNITION MODEL
 The project starts with giving a word to the program for it to search google to get 50 images,
 and its preprocessed (resize,gray scale,flatten) and given to svm.fit.
 Using webcame take the image to send to predict.
-# REQUIREMENT 
+## REQUIREMENT 
 
 scikit
 , open cv
